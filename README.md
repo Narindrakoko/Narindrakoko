@@ -33,10 +33,10 @@
 - [Mini réseau sociaux](https://github.com/Narindrakoko/Mini_reseau_sociaux)
 
 <p align="center">
-  <img src="Mini_réseau_sociaux_pics/accueil.jpeg" alt="Affiche de l'accueil après le login" width="200" height="200"/>
-  <img src="Mini_réseau_sociaux_pics/user.jpeg" alt="user" width="200" height="200"/>
-  <img src="Mini_réseau_sociaux_pics/chat.jpeg" alt="Message" width="200" height="200"/>
-  <img src="Mini_réseau_sociaux_pics/profil.jpeg" alt="Image du profil d'un utilisateur" width="200" height="200"/>
+  <img src="Mini_réseau_sociaux_pics/accueil.jpeg" alt="Affiche de l'accueil après le login" width="150" height="200"/>
+  <img src="Mini_réseau_sociaux_pics/user.jpeg" alt="user" width="150" height="200"/>
+  <img src="Mini_réseau_sociaux_pics/chat.jpeg" alt="Message" width="150" height="200"/>
+  <img src="Mini_réseau_sociaux_pics/profil.jpeg" alt="Image du profil d'un utilisateur" width="150" height="200"/>
 </p>
 
 
