@@ -34,7 +34,8 @@
 
 <p align="center">
   <img src="Mini_réseau_sociaux_pics/accueil.jpeg" alt="Affiche de l'accueil après le login" width="200"/>
-  <img src="Mini_réseau_sociaux_pics/fond.jpeg" alt="Image de fond" width="200"/>
+  <img src="Mini_réseau_sociaux_pics/user.jpeg" alt="user" width="200"/>
+  <img src="Mini_réseau_sociaux_pics/chat.jpeg" alt="Message" width="200"/>
   <img src="Mini_réseau_sociaux_pics/profil.jpeg" alt="Image du profil d'un utilisateur" width="200"/>
 </p>
 
