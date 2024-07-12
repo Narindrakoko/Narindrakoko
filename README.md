@@ -25,19 +25,10 @@
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoWidth=40" alt="Next.js" width="100"/>
 </p>
 
-
-
-## 🎨 Un exemple de mes projets  
-  <h5 align="center">  Un Mini réseau sociaux faites avec React Native Expo 📱 et  Firebase database 📥 </h5>
-
-- [Mini réseau sociaux](https://github.com/Narindrakoko/Mini_reseau_sociaux)
-
 <p align="center">
-  <img src="Mini_réseau_sociaux_pics/accueil.jpeg" alt="Affiche de l'accueil après le login" width="200" />
-  <img src="Mini_réseau_sociaux_pics/user.jpeg" alt="user" width="200"/>
-  <img src="Mini_réseau_sociaux_pics/chat.jpeg" alt="Message" width="200" />
-  <img src="Mini_réseau_sociaux_pics/profil.jpeg" alt="Image du profil d'un utilisateur" width="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Narindrakoko&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
+
 
 
 
