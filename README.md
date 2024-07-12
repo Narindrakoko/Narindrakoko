@@ -25,10 +25,18 @@
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoWidth=40" alt="Next.js" width="100"/>
 </p>
 
+## 📊 Statistiques de GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Narindrakoko&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Narindrakokko&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narindrakoko&layout=compact&theme=radical" alt="Top Langs"/>
 </p>
 
+## 🚀 Total des Commits
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Narindrakoko&theme=radical" alt="GitHub Streak"/>
+</p>
 
 
 
