@@ -1,13 +1,13 @@
 
 <h1 align="center" style="color: green; font-family: 'Arial', sans-serif; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1); margin-top: 50px;">
-🙋‍♂️ Bienvenue à vous étranger 😸
+🙋‍♂️ Helloooooo 🧘🏽‍♂️
 </h1>
 
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGt2aGhhbTY0YnVlMW90emY4cm52bG16czd0NXk4Zzd0ZTZiMzEyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/pNg5QJ37LZTPSgYlpD/giphy.gif" alt="Narindra" width="600"/>
 </p>
-<h2 align="center">En tant que développeur passionné par les technologies, je me spécialise dans le développement d'applications web, mobiles et divers utilitaires.</h2>
+<h2 align="center">Let's Code👨🏽‍💻</h2>
 
 
 ## 🔧 Technologies & Outils🔧
