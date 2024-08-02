@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3JwN28xZjRwZWg2cWtqd3ZoNndobHhlb3M0NXczd256cXJkaXo2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Narindra" width="600"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjYxaHY5cjJnNm5neG8xZzNmMmpkbDh4NGxjMGNtMmF5aGRoNW44YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/27c7Jo2GU5tpCEQT0y/giphy.gif" alt="Narindra" width="600"/>
 </p>
 <h2 align="center">Let's Code👨🏽‍💻</h2>
 
