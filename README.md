@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjYxaHY5cjJnNm5neG8xZzNmMmpkbDh4NGxjMGNtMmF5aGRoNW44YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/27c7Jo2GU5tpCEQT0y/giphy.gif" alt="Narindra" width="600"/>
 </p>
-<h2 align="center">WELCOME STRANGER 👨🏽‍💻</h2>
+<h2 align="center">WELCOME STRANGER 🤓</h2>
 
 
 ## 🔧 Technologies & Outils🔧
