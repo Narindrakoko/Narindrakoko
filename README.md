@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoWidth=40" alt="CSS3" width="100"/>
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoWidth=40" alt="Bootstrap" width="100"/>
   <img src="https://img.shields.io/badge/-Material%20UI-0081CB?style=flat&logo=material-ui&logoWidth=40" alt="Material UI" width="100"/>
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoWidth=40" alt="Next.js" width="100"/>
+
 </p>
 
 ## 📊 Statistiques de GitHub
