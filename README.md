@@ -1,6 +1,3 @@
-
-
-
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjYxaHY5cjJnNm5neG8xZzNmMmpkbDh4NGxjMGNtMmF5aGRoNW44YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/27c7Jo2GU5tpCEQT0y/giphy.gif" alt="Narindra" width="600"/>
 </p>
@@ -25,7 +22,6 @@
 ## 📊 Statistiques de GitHub
 
 <p align="center">
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narindrakoko&layout=compact&theme=radical" alt="Top Langs"/>
 </p>
 
@@ -35,12 +31,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Narindrakoko&theme=radical" alt="GitHub Streak"/>
 </p>
 
-
-
-## 📫  contact
+## 📫  Contact
 
 - ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) [heriniainanarindra25@gmail.com](mailto:heriniainanarindra25@gmail.com)
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [Narindra-Heriniaina](https://www.linkedin.com/in/narindra-heriniaina)
 
-
-
+![Profile Views](https://komarev.com/ghpvc/?username=Narindrakoko&style=flat-square&color=blue)
